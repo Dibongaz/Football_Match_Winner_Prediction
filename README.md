@@ -11,8 +11,6 @@ In this project, we'll predict the winner of football matches in the English Pre
 
 ## Code
 
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/football_matches).
-
 File overview:
 
 * `scraping.ipynb` - a Jupyter notebook that scrapes our data.
